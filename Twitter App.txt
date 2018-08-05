@@ -1,0 +1,16 @@
+    
+	
+	
+	
+	
+	                                                     Go to : https:apps.twitter.com
+                      Sign Up there ,and fill the Application Details
+
+a. $ echo consumer_key>> auth   #consumer_key is unique for every individuals
+b. $ echo consumer_secret >> auth  #consumer_secret is also unique for every individuals
+
+Click Create my Account
+
+$ echo access_token>> auth   #access_token is unique and appears automatically when the signup is complete
+$ echo access_token_secret >> auth    #access_token_secret is also unique 
+End !!!!
